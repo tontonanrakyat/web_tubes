@@ -1,0 +1,10 @@
+.result {
+  background-color: pink;
+  width: 100px;
+  height: 20px;
+}
+
+.tombol {
+  background-color: blue;
+  color: white;
+}
